@@ -1,0 +1,15 @@
+br\com\wine\WineApp\exception\LojaFaixaZipCodeNotFoundException.class
+br\com\wine\WineApp\exception\LojaFaixaZipCodeConflictException.class
+br\com\wine\WineApp\repository\LojaFaixaCepRepository.class
+br\com\wine\WineApp\dto\LojaFaixaCepDTO.class
+br\com\wine\WineApp\exception\ZipCodeInitialLessZipCodeEndException.class
+br\com\wine\WineApp\mapper\LojaFaixaCepMapper.class
+br\com\wine\WineApp\exception\StoreMatchingZipCodeNotFoundException.class
+br\com\wine\WineApp\model\LojaFaixaCep.class
+br\com\wine\WineApp\mapper\LojaFaixaCepMapperImpl.class
+br\com\wine\WineApp\utils\JsonConvertionUtils.class
+br\com\wine\WineApp\dto\LojaFaixaCepDTO$LojaFaixaCepDTOBuilder.class
+br\com\wine\WineApp\controller\CepController.class
+br\com\wine\WineApp\controller\LojaController.class
+br\com\wine\WineApp\WineAppApplication.class
+br\com\wine\WineApp\service\LojaFaixaCepService.class

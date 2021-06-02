@@ -1,0 +1,13 @@
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\exception\LojaFaixaZipCodeConflictException.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\repository\LojaFaixaCepRepository.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\mapper\LojaFaixaCepMapper.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\dto\LojaFaixaCepDTO.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\model\LojaFaixaCep.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\controller\LojaController.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\exception\ZipCodeInitialLessZipCodeEndException.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\service\LojaFaixaCepService.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\exception\LojaFaixaZipCodeNotFoundException.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\controller\CepController.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\utils\JsonConvertionUtils.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\exception\StoreMatchingZipCodeNotFoundException.java
+C:\Users\Alessandro\Documents\GitHub\WineApp\src\main\java\br\com\wine\WineApp\WineAppApplication.java
