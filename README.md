@@ -4,11 +4,17 @@
 Tecnologias utilizadas:
 
 JDK 15
+
 Spring Boot
+
 JPA/Hibernate
+
 Banco de Dados H2
+
 Swagger
+
 MapStruct
+
 Lombok
 
 
