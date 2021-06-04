@@ -17,7 +17,7 @@ import java.util.List;
 @RestController
 @RequestMapping(value = "/api/v1/loja")
 @AllArgsConstructor(onConstructor = @__(@Autowired))
-public class LojaController {
+public class LojaController implements LojaControllerDocs{
 
     private final LojaFaixaCepService lojaFaixaCepService;
 

@@ -6,7 +6,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-06-02T14:33:21-0300",
+    date = "2021-06-04T09:58:31-0300",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 15.0.2 (Oracle Corporation)"
 )
 public class LojaFaixaCepMapperImpl implements LojaFaixaCepMapper {

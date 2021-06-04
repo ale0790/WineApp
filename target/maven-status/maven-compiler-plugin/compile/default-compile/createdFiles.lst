@@ -1,5 +1,7 @@
+br\com\wine\WineApp\controller\LojaControllerDocs.class
 br\com\wine\WineApp\exception\LojaFaixaZipCodeNotFoundException.class
 br\com\wine\WineApp\exception\LojaFaixaZipCodeConflictException.class
+br\com\wine\WineApp\config\SwaggerConfig.class
 br\com\wine\WineApp\repository\LojaFaixaCepRepository.class
 br\com\wine\WineApp\dto\LojaFaixaCepDTO.class
 br\com\wine\WineApp\exception\ZipCodeInitialLessZipCodeEndException.class
